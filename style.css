@@ -1,0 +1,44 @@
+.container{width: 800px;
+           border: 50px;
+           padding: 25px;
+           margin: auto;
+           background-color: #050505;
+        
+}
+    
+    
+    
+body {background-color: #626060;
+    color: #f5f1f1; 
+    font-family: 'Lora';
+    font-size: 11pt;
+    line-height: 1.5;
+        
+}
+
+a {color: #9e1010;}
+        
+}
+
+li {color: #9e1010;}
+
+h1 {font-family: 'Raleway', monospace;
+    font-size: 43pt;
+    text-transform: uppercase;
+    text-align: center;
+    text-shadow: 2px 2px #9e1010;
+        
+
+}
+
+h2 {font-family: 'Raleway', monospace;
+    font-size: 18pt
+    font-weight: bold;
+}
+
+hr {color: #626060;}
+
+p {font-style:normal;
+    letter-spacing: normal;
+    text-indent: 15px;
+}
