@@ -1,0 +1,98 @@
+
+
+
+body {background-color: black;
+    color: #fff;
+    font-family: 'Lora';
+    
+}    
+    
+header  {height: 155px;
+        width: 1000px;
+        text-align: center;
+        margin: auto;
+        padding-top: 55px;
+        font-size: 16pt;
+        line-height: 
+        background-image: url(../Images/skybanner.jpg)    
+        }
+a:hover {color: black;
+}
+.floatleft {float: left;
+            margin-left: auto;
+            margin-right: auto;
+            padding: 10px;
+
+}
+
+.banner {width: 1200px;
+        height: auto;
+        padding: 0;
+    
+        }
+
+.clear {clear: left;}
+
+.floatright {float: right;}
+
+
+img {margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    height: 333px;
+    padding-top: 25px;
+    padding-left: 50px;}
+
+.container{width: 1200px;
+           margin-left: auto;
+            margin-right: auto;
+           background-color: #ac040c;
+        
+}
+figcaption {font-family: 'Roboto';
+            text-transform: uppercase;
+            font-size: 15pt;
+            text-align: center;
+           }    
+
+#nebraska {float: left;
+        font-size: 22pt;
+        padding-left: 0px;
+        }
+
+li {display: inline;
+    float: right;
+    padding: inherit;
+    
+    }
+
+ul {list-style-type: none;
+    margin: 0;
+    padding-right:30px;
+    color: #fff;}
+
+a:hover, a:visited, a:link, a:active
+{
+    text-decoration: none;
+    color: #fff;
+    font-size: 14pt;
+}
+a:hover {
+    text-decoration: underline;
+}
+
+a:active {
+    text-decoration: underline;
+}
+
+nav {height: 15px;
+    width: 1200px;
+    background: none;
+    padding: 20px;
+    text-transform: uppercase;
+    padding-bottom: 30px;
+    color: #fff;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Roboto';
+}
